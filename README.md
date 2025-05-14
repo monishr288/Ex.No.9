@@ -53,6 +53,8 @@ A peacock flying  iin the sky above the river ,generate video
 ## OUTPUT:
 
 https://github.com/user-attachments/assets/f2504998-58f1-45cd-8853-4ff78ac0a5c8
+## DRIVE LINK : 
+https://drive.google.com/file/d/11zq5og8sDN5Be_2sdEUzSmiJPbCbVf4t/view?usp=sharing
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
