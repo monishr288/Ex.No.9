@@ -49,22 +49,21 @@ Tools/LLMs for Video Generation:
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 ## PROMPT :
-A peacock flying  iin the sky above the river ,generate video
-## OUTPUT:
+### A peacock flying  in the sky above the river ,generate video
 ## AI USED:
-Runwayml
+### Runwayml
 ## OUTPUT:
 https://github.com/user-attachments/assets/f2504998-58f1-45cd-8853-4ff78ac0a5c8
 ## DRIVE LINK : 
 https://drive.google.com/file/d/11zq5og8sDN5Be_2sdEUzSmiJPbCbVf4t/view?usp=sharing
 ## PROMPT :
-Fish crying under the water,generate a video
+### Fish crying under the water,generate a video
 ## AI USED:
-Pixverse AI
-## DRIVE LINK:
-https://drive.google.com/file/d/1uv8ZQMhFHBipvFK2ZMjIOgjAvgMsK2j-/view
+### Pixverse AI
 ## OUTPUT:
 https://github.com/user-attachments/assets/0ef1d6c1-231d-4b8d-a918-29ce36dde2c1
+## DRIVE LINK:
+https://drive.google.com/file/d/1uv8ZQMhFHBipvFK2ZMjIOgjAvgMsK2j-/view
 
 
 ## Conclusion:
